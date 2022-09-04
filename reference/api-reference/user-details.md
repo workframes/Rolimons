@@ -73,7 +73,7 @@ This endpoint is **NOT** recommended to be used to fetch players inventories, if
 | ------ | ---- |
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="Badges" %}
 
 
 | Badge Name | Acquired Time in Epoch |
