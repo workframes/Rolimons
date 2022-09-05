@@ -1,4 +1,4 @@
-# User Details
+# User Inventory Details
 
 ## Fetching User Details
 

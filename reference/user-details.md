@@ -42,7 +42,7 @@
 {% endswagger-response %}
 
 {% swagger-response status="429: Too Many Requests" description="Rate Limited" %}
-
+Recommended to send 10 requests every minute 
 {% endswagger-response %}
 {% endswagger %}
 
