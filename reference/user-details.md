@@ -2,10 +2,6 @@
 
 ## Fetching User Details
 
-{% hint style="warning" %}
-
-{% endhint %}
-
 {% swagger baseUrl="https://www.rolimons.com/playerapi/player" method="get" path="/UserID" summary="Returns recently posted ads" %}
 {% swagger-description %}
 
